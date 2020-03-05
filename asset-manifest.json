@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/theeducure/static/css/main.608e1557.chunk.css",
+    "main.js": "/theeducure/static/js/main.187e89cf.chunk.js",
+    "main.js.map": "/theeducure/static/js/main.187e89cf.chunk.js.map",
+    "runtime-main.js": "/theeducure/static/js/runtime-main.0b14a2c1.js",
+    "runtime-main.js.map": "/theeducure/static/js/runtime-main.0b14a2c1.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/theeducure/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.a9a09ec2.chunk.js": "/theeducure/static/js/2.a9a09ec2.chunk.js",
+    "static/js/2.a9a09ec2.chunk.js.map": "/theeducure/static/js/2.a9a09ec2.chunk.js.map",
+    "index.html": "/theeducure/index.html",
+    "precache-manifest.f393eb913526df55c573c5d0e26ae4f9.js": "/theeducure/precache-manifest.f393eb913526df55c573c5d0e26ae4f9.js",
+    "service-worker.js": "/theeducure/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/theeducure/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.608e1557.chunk.css.map": "/theeducure/static/css/main.608e1557.chunk.css.map",
+    "static/js/2.a9a09ec2.chunk.js.LICENSE.txt": "/theeducure/static/js/2.a9a09ec2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b14a2c1.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.a9a09ec2.chunk.js",
+    "static/css/main.608e1557.chunk.css",
+    "static/js/main.187e89cf.chunk.js"
+  ]
+}
